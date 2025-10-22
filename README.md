@@ -1,12 +1,12 @@
 # Gemini 中文版：Gemini 3 Pro 国内使用指南~（支持 Gemini-2.5-pro，无需翻墙）【2025年更新】
 
-> **更新时间：2025-10-17**     
+> **更新时间：2025-10-23**     
 
 全面体验 [**Gemini 中文版**](https://ai.lanjingchat.com)，**国内直接使用，无需翻墙**，**支持 Gemini 2.5 Pro 及中文版功能**   
 
 本指南提供全面的 **Gemini 国内使用指南**，包括国内可用的 [**Gemini 官网入口**](https://ai.lanjingchat.com)、[**Gemini 网页版**](https://xsimplechat.com)、[**Gemini 国内镜像网站**](https://ai.lanjingchat.com) 和详细的使用教程，助您快速上手 Gemini~
 
-**Gemini 中文版入口：[https://ai.lanjingchat.com](https://ai.lanjingchat.com)**   
+**Gemini 中文版入口：[https://lanjingchat.com](https://ai.lanjingchat.com)**   
 **Gemini 镜像网站：[https://xsimplechat.com](https://xsimplechat.com)**
 
 Gemini(双子座) 作为 Google 开发的旗舰级语言模型，以其卓越的多模态能力和强大的逻辑推理而闻名于世。它在理解和处理文本、图像、音频和视频方面均表现出色，被广泛认为是 AI 技术的顶尖代表。
